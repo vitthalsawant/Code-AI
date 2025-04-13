@@ -64,7 +64,7 @@ Feel free to reach out or follow for updates:
 * 👔 **LinkedIn**: [Connect with Vitthal Sawant](https://www.linkedin.com/in/vitthal-sawant-maharastra01/)
 * 📸 **Instagram**: [Follow on Instagram](https://www.instagram.com/vitthal_sawant__/)
 * 📱 **WhatsApp**: [Message on WhatsApp](https://wa.me/+918308075485)
-* 📧 **Email**: vitthslsawant300@gmail.com
+* 📧 **Email**: vitthalsawant300@gmail.com
 
 ## 🔗 Live Project
 Try out the application here: [Code Generator AI](https://codegeneratorai.streamlit.app/)
