@@ -50,8 +50,8 @@ def explain_code_with_context(code, language, chat_history):
         return f"Error generating explanation: {str(e)}"
 
 # Streamlit interface setup
-st.title("AI Code Generator")
-st.write("Enter your prompt and select a programming language to generate context-aware, short-commented code.")
+st.markdown("<h1 style='text-align: center;'>AI Code Generator</h1>", unsafe_allow_html=True)
+st.write("🚀 Welcome to Your AI Coding Assistant! Enter your prompt and select a programming language to generate context-aware, short-commented code.")
 
 # Sidebar for language selection and social media links
 with st.sidebar:
