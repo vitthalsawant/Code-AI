@@ -1,4 +1,4 @@
-# 🤖 AI Code Generator with Contextual Understanding
+# 🤖 AI Code Generator
 
 ## 📚 Project Overview
 This application is a **Streamlit-based AI tool** for generating programming code using **Google's Gemini API**. It provides context-aware code generation and explanations, allowing users to dynamically generate short-commented programming code based on their queries. The application uses conversational history to refine subsequent responses, making it highly interactive and conversational—similar to ChatGPT.
