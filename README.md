@@ -67,7 +67,7 @@ Feel free to reach out or follow for updates:
 * 📧 **Email**: vitthalsawant300@gmail.com
 
 ## 🔗 Live Project
-Try out the application here: [Code Generator AI](https://codegeneratorai.streamlit.app/)
+Try out the application here: [Code Generator AI](https://ai-code-generator.streamlit.app/)
 
 ## 🔍 Technical Analysis
 
