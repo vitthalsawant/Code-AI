@@ -183,8 +183,6 @@ This application is particularly useful for:
 
 The combination of Gemini AI with Streamlit creates a powerful, interactive coding assistant that can help users learn and understand code better while maintaining context across interactions.
 
-## 📄 License
-This project is open source and available under the MIT License. ❤️
 
 ## 👥 Contributing
 Contributions are welcome and greatly appreciated! If you're interested in improving this project, here's how you can help:
