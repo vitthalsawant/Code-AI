@@ -128,7 +128,7 @@ if st.button("🚀 Generate Code"):
             
             # Increment input key to clear the input field
             st.session_state['input_key'] += 1
-            st.experimental_rerun()
+            st.rerun()
     else:
         st.warning("Please enter a prompt.")
 
